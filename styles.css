@@ -1,0 +1,18 @@
+.img{
+    height:auto;
+    width:500px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    background-color: rgb(206, 60, 89);
+}
+.ol{
+    background-color: rgb(161, 255, 224);
+}
+li{
+    color:rgb(116, 0, 116);
+}
+.foodtitle{
+    text-align: center;
+}
