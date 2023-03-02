@@ -1,0 +1,1 @@
+I hope to create a relatively basic, but functioning website. Through this I will learn how to assemble a decent recipe site that I will most likely use in the future.
